@@ -1,0 +1,31 @@
+css.style
+
+body {
+  background: hsl(184, 49%, 35%);
+  font-family: Calibri, arial, san-serif;
+  font-size: 16px;
+  color: hsl(0, 22%, 96%);
+}
+
+#headshot img {
+  width: 108px;
+  height: 108px;
+}
+
+p {
+  font-size: 1em;
+  line-height: 1.4em;
+  margin-bottom: 20px;
+  color: hsl(126, 45%, 96%);
+}
+
+
+#container {
+  width: 990%;
+  max-width: 800px;
+  background: hsl(225, 57%, 35%);
+  margin: top right bottom left;
+  margin: 30px auto;
+  padding: 30px;
+
+}
